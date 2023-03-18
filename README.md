@@ -1,4 +1,10 @@
-# Вопросы по React
+
+<div align="center">
+  <img height="60" src="https://img.icons8.com/color/344/javascript.png">
+  <h1>Вопросы по React</h1>
+</div>
+    
+---
 
 ###### 1. Что выведется в консоли и чему будет равен clicks, если нажать на кнопку 10 раз за полторы секунды?
 
