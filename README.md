@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="60" src="https://icons8.com/icon/123603/react-native">
+  <img height="60" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png">
   <h1>Вопросы по React</h1>
 </div>
     
